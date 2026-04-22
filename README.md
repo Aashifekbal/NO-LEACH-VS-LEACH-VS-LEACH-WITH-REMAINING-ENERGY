@@ -18,6 +18,7 @@ M.Tech ACN Lab Project — Enhanced Comparative Study of Three Wireless Sensor N
 
 
 **Overview**
+
 This project simulates and compares three wireless sensor network (WSN) routing protocols across a 100×100 m field with 100 sensor nodes and a base station placed outside the field at (50, 175) m. All three protocols use identical node deployments (fixed random seed) to ensure a fair comparison.
 Performance is evaluated using three standard lifetime metrics:
 MetricMeaningFNDFirst Node Dead — when robustness begins to degradeHNDHalf Nodes Dead — useful data coverage thresholdLNDLast Node Dead — total network lifetime
